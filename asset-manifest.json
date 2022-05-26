@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guidocq.github.io/react/static/css/main.073c9b0a.css",
+    "main.js": "/guidocq.github.io/react/static/js/main.bdc7f862.js",
+    "index.html": "/guidocq.github.io/react/index.html",
+    "main.073c9b0a.css.map": "/guidocq.github.io/react/static/css/main.073c9b0a.css.map",
+    "main.bdc7f862.js.map": "/guidocq.github.io/react/static/js/main.bdc7f862.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bdc7f862.js"
+  ]
+}
